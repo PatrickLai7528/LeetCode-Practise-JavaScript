@@ -2,33 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae1b7e38-1dde-4d75-8244-68774c23134b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AliQ2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Ex1002.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Ex118.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Ex229.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Ex49.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Ex532.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Ex58.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Ex581.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Ex605.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Ex643.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Ex66.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Ex674.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Ex724.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Ex747.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Ex830.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Ex848.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Ex849.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Ex890.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Ex93.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Ex941.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Ex945.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Ex989.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/京東筆試題/集合的交/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/拼多多筆試題目/最大整數/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Ex 238.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Ex14.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Ex165.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Ex287.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Ex442.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Ex48.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Ex646.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Ex740.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Ex75.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Ex804.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Ex88.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Ex91.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/京東筆試題/真筆試/最長區間/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/京東筆試題/真筆試/隊列最小修改/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Ex229.js" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Ex229.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -42,91 +31,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/Ex849.js">
+        <entry file="file://$PROJECT_DIR$/LeetCode/Ex48.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1248">
-              <caret line="48" column="27" lean-forward="true" selection-start-line="34" selection-start-column="2" selection-end-line="48" selection-end-column="27" />
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/Ex605.js">
+        <entry file="file://$PROJECT_DIR$/LeetCode/Ex 238.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="962">
-              <caret line="37" column="33" lean-forward="true" selection-start-line="25" selection-start-column="2" selection-end-line="37" selection-end-column="33" />
+            <state relative-caret-position="312">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/Ex674.js">
+        <entry file="file://$PROJECT_DIR$/LeetCode/Ex442.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="806">
-              <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+            <state relative-caret-position="754">
+              <caret line="29" column="14" selection-start-line="20" selection-start-column="3" selection-end-line="29" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/Ex830.js">
+        <entry file="file://$PROJECT_DIR$/LeetCode/Ex75.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1170">
-              <caret line="45" column="14" lean-forward="true" selection-start-line="30" selection-start-column="3" selection-end-line="45" selection-end-column="14" />
+            <state relative-caret-position="1092">
+              <caret line="42" column="4" selection-start-line="23" selection-start-column="3" selection-end-line="42" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/拼多多筆試題目/最大整數/index.js">
+        <entry file="file://$PROJECT_DIR$/LeetCode/Ex88.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+            <state relative-caret-position="832">
+              <caret line="32" column="4" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="32" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/京東筆試題/集合的交/index.js">
+        <entry file="file://$PROJECT_DIR$/LeetCode/Ex646.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="31" column="4" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+            <state relative-caret-position="754">
+              <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-end-line="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/Ex532.js">
+        <entry file="file://$PROJECT_DIR$/LeetCode/Ex740.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+            <state relative-caret-position="494">
+              <caret line="47" column="19" lean-forward="true" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/Ex581.js">
+        <entry file="file://$PROJECT_DIR$/LeetCode/Ex287.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+            <state relative-caret-position="598">
+              <caret line="37" column="13" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="37" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/Ex945.js">
+        <entry file="file://$PROJECT_DIR$/LeetCode/Ex804.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
-              <caret line="29" column="6" lean-forward="true" selection-start-line="27" selection-start-column="2" selection-end-line="29" selection-end-column="6" />
+            <state relative-caret-position="340">
+              <caret line="45" column="19" lean-forward="true" selection-start-line="34" selection-start-column="3" selection-end-line="45" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode/Ex229.js">
+        <entry file="file://$PROJECT_DIR$/LeetCode/Ex14.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+            <state relative-caret-position="275">
+              <caret line="34" column="14" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="34" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -174,6 +163,21 @@
         <option value="$PROJECT_DIR$/LeetCode/Ex781.js" />
         <option value="$PROJECT_DIR$/LeetCode/Ex945.js" />
         <option value="$PROJECT_DIR$/LeetCode/Ex229.js" />
+        <option value="$PROJECT_DIR$/京東筆試題/真筆試/最長區間/index.js" />
+        <option value="$PROJECT_DIR$/京東筆試題/真筆試/隊列最小修改/index.js" />
+        <option value="$PROJECT_DIR$/LeetCode/Ex165.js" />
+        <option value="$PROJECT_DIR$/Ex91.js" />
+        <option value="$PROJECT_DIR$/LeetCode/Ex91.js" />
+        <option value="$PROJECT_DIR$/LeetCode/Ex48.js" />
+        <option value="$PROJECT_DIR$/LeetCode/Ex 238.js" />
+        <option value="$PROJECT_DIR$/LeetCode/Ex442.js" />
+        <option value="$PROJECT_DIR$/LeetCode/Ex75.js" />
+        <option value="$PROJECT_DIR$/LeetCode/Ex88.js" />
+        <option value="$PROJECT_DIR$/LeetCode/Ex646.js" />
+        <option value="$PROJECT_DIR$/LeetCode/Ex740.js" />
+        <option value="$PROJECT_DIR$/LeetCode/Ex287.js" />
+        <option value="$PROJECT_DIR$/LeetCode/Ex804.js" />
+        <option value="$PROJECT_DIR$/LeetCode/Ex14.js" />
       </list>
     </option>
   </component>
@@ -187,6 +191,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,11 +204,28 @@
               <item name="LeetCode-Practise-JavaScript" type="462c0819:PsiDirectoryNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LeetCode-Practise-JavaScript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Practise-JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="京東筆試題" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Practise-JavaScript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Practise-JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="京東筆試題" type="462c0819:PsiDirectoryNode" />
+              <item name="真筆試" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Practise-JavaScript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Practise-JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="京東筆試題" type="462c0819:PsiDirectoryNode" />
+              <item name="真筆試" type="462c0819:PsiDirectoryNode" />
+              <item name="隊列最小修改" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -231,44 +253,44 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.Ex945.js">
+  <component name="RunManager" selected="Node.js.Ex14.js">
     <configuration name="Unnamed" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" nameIsGenerated="true" port="9229">
       <method v="2" />
     </configuration>
-    <configuration name="Ex532.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/LeetCode/Ex532.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Ex14.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/LeetCode/Ex14.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Ex581.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/LeetCode/Ex581.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Ex646.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/LeetCode/Ex646.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Ex781.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/LeetCode/Ex781.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Ex740.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/LeetCode/Ex740.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Ex945.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/LeetCode/Ex945.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Ex804.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/LeetCode/Ex804.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex88.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/LeetCode/Ex88.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="Unnamed" type="NodeJSConfigurationType" nameIsGenerated="true" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="index.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/京東筆試題/集合的交/index.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Attach to Node.js/Chrome.Unnamed" />
       <item itemvalue="Node.js.Unnamed" />
-      <item itemvalue="Node.js.index.js (1)" />
-      <item itemvalue="Node.js.Ex532.js" />
-      <item itemvalue="Node.js.Ex581.js" />
-      <item itemvalue="Node.js.Ex781.js" />
-      <item itemvalue="Node.js.Ex945.js" />
+      <item itemvalue="Node.js.Ex88.js" />
+      <item itemvalue="Node.js.Ex646.js" />
+      <item itemvalue="Node.js.Ex740.js" />
+      <item itemvalue="Node.js.Ex804.js" />
+      <item itemvalue="Node.js.Ex14.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Ex945.js" />
-        <item itemvalue="Node.js.Ex781.js" />
-        <item itemvalue="Node.js.Ex581.js" />
-        <item itemvalue="Node.js.Ex532.js" />
-        <item itemvalue="Node.js.index.js (1)" />
+        <item itemvalue="Node.js.Ex14.js" />
+        <item itemvalue="Node.js.Ex804.js" />
+        <item itemvalue="Node.js.Ex740.js" />
+        <item itemvalue="Node.js.Ex646.js" />
+        <item itemvalue="Node.js.Ex88.js" />
       </list>
     </recent_temporary>
   </component>
@@ -288,24 +310,27 @@
       <workItem from="1554895360946" duration="437000" />
       <workItem from="1554904819220" duration="8902000" />
       <workItem from="1555044666850" duration="7773000" />
-      <workItem from="1555134501845" duration="4759000" />
+      <workItem from="1555134501845" duration="10580000" />
+      <workItem from="1555169156201" duration="4639000" />
+      <workItem from="1555510352266" duration="3303000" />
+      <workItem from="1555518103721" duration="1324000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28861000" />
+    <option name="totallyTimeSpent" value="43948000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.37100738" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.42874694" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.42874694" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -374,6 +399,32 @@
           <url>file://$PROJECT_DIR$/拼多多筆試題目/最大整數/index.js</url>
           <line>6</line>
           <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/京東筆試題/真筆試/最長區間/index.js</url>
+          <line>21</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/LeetCode/Ex75.js</url>
+          <line>34</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/LeetCode/Ex646.js</url>
+          <line>31</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/LeetCode/Ex740.js</url>
+          <line>41</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/LeetCode/Ex14.js</url>
+          <line>24</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -507,6 +558,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/Ex781.js" />
     <entry file="file://$PROJECT_DIR$/LeetCode/Ex674.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="806">
@@ -517,7 +569,7 @@
     <entry file="file://$PROJECT_DIR$/LeetCode/Ex830.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1170">
-          <caret line="45" column="14" lean-forward="true" selection-start-line="30" selection-start-column="3" selection-end-line="45" selection-end-column="14" />
+          <caret line="45" column="14" selection-start-line="30" selection-start-column="3" selection-end-line="45" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -530,43 +582,134 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/京東筆試題/集合的交/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="31" column="4" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+        <state relative-caret-position="806">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/Ex532.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/Ex781.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+        <state relative-caret-position="728">
+          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/Ex581.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
+        <state relative-caret-position="702">
           <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/Ex945.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="29" column="6" lean-forward="true" selection-start-line="27" selection-start-column="2" selection-end-line="29" selection-end-column="6" />
+        <state relative-caret-position="754">
+          <caret line="29" column="6" selection-start-line="27" selection-start-column="2" selection-end-line="29" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/Ex229.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/京東筆試題/真筆試/最長區間/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/京東筆試題/真筆試/隊列最小修改/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/Ex165.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="51" column="12" selection-start-line="42" selection-start-column="2" selection-end-line="51" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/Ex91.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1014">
+          <caret line="39" column="28" selection-start-line="25" selection-start-column="3" selection-end-line="39" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/Ex48.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1248">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/Ex 238.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
-          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/Ex442.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="29" column="14" selection-start-line="20" selection-start-column="3" selection-end-line="29" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/Ex75.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="42" column="4" selection-start-line="23" selection-start-column="3" selection-end-line="42" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/Ex88.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="832">
+          <caret line="32" column="4" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="32" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/Ex646.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/Ex740.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="47" column="19" lean-forward="true" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/Ex287.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="37" column="13" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/Ex804.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="45" column="19" lean-forward="true" selection-start-line="34" selection-start-column="3" selection-end-line="45" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/Ex14.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="34" column="14" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="34" selection-end-column="14" />
         </state>
       </provider>
     </entry>

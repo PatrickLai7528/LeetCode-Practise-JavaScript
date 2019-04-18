@@ -17,5 +17,20 @@
  * @return {number[]}
  */
 const majorityElement = function (nums) {
-
+   let map = new Map();
+   let n = Math.floor(nums.length / 3);
+   for (let num of nums) {
+      if (map.has(num)) {
+         map.set(num, map.get(num) + 1);
+      } else {
+         map.set(num, 1);
+      }
+   }
+   let res = [];
+   for(let key of map.keys()){
+      if(map.get(key) > n){
+         res.push(key);
+      }
+   }
+   return res;
 };
