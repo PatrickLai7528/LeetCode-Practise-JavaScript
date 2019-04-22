@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae1b7e38-1dde-4d75-8244-68774c23134b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/Ex108.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Ex109.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Ex114.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Ex859.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Ex105.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Ex106.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Ex767.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,24 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/Ex88.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="832">
-              <caret line="32" column="4" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="32" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/Ex646.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="754">
-              <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-end-line="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/Ex740.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -74,11 +53,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/Ex108.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="218">
               <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/Ex105.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="57" column="4" lean-forward="true" selection-start-line="50" selection-start-column="3" selection-end-line="57" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/Ex106.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -173,6 +170,8 @@
         <option value="$PROJECT_DIR$/LeetCode/Ex109.js" />
         <option value="$PROJECT_DIR$/LeetCode/Ex114.js" />
         <option value="$PROJECT_DIR$/LeetCode/Ex108.js" />
+        <option value="$PROJECT_DIR$/LeetCode/Ex105.js" />
+        <option value="$PROJECT_DIR$/LeetCode/Ex106.js" />
       </list>
     </option>
   </component>
@@ -247,8 +246,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.Ex108.js">
+  <component name="RunManager" selected="Node.js.Ex106.js">
     <configuration name="Unnamed" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" nameIsGenerated="true" port="9229">
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex105.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/LeetCode/Ex105.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex106.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/LeetCode/Ex106.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="Ex108.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/LeetCode/Ex108.js" working-dir="$PROJECT_DIR$">
@@ -260,31 +265,25 @@
     <configuration name="Ex114.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/LeetCode/Ex114.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Ex767.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/LeetCode/Ex767.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="Ex859.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/LeetCode/Ex859.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
     <configuration name="Unnamed" type="NodeJSConfigurationType" nameIsGenerated="true" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Attach to Node.js/Chrome.Unnamed" />
       <item itemvalue="Node.js.Unnamed" />
-      <item itemvalue="Node.js.Ex859.js" />
-      <item itemvalue="Node.js.Ex767.js" />
       <item itemvalue="Node.js.Ex108.js" />
       <item itemvalue="Node.js.Ex109.js" />
       <item itemvalue="Node.js.Ex114.js" />
+      <item itemvalue="Node.js.Ex105.js" />
+      <item itemvalue="Node.js.Ex106.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Ex106.js" />
+        <item itemvalue="Node.js.Ex105.js" />
         <item itemvalue="Node.js.Ex108.js" />
         <item itemvalue="Node.js.Ex114.js" />
         <item itemvalue="Node.js.Ex109.js" />
-        <item itemvalue="Node.js.Ex767.js" />
-        <item itemvalue="Node.js.Ex859.js" />
       </list>
     </recent_temporary>
   </component>
@@ -309,12 +308,12 @@
       <workItem from="1555510352266" duration="3303000" />
       <workItem from="1555518103721" duration="3725000" />
       <workItem from="1555587937779" duration="45000" />
-      <workItem from="1555861193035" duration="4596000" />
+      <workItem from="1555861193035" duration="7969000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50990000" />
+    <option name="totallyTimeSpent" value="54363000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -325,8 +324,8 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37100738" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4066339" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37100738" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4066339" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -420,6 +419,18 @@
           <url>file://$PROJECT_DIR$/LeetCode/Ex14.js</url>
           <line>24</line>
           <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/LeetCode/Ex105.js</url>
+          <line>60</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/LeetCode/Ex105.js</url>
+          <line>36</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="54" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -734,6 +745,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="218">
           <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/Ex105.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="57" column="4" lean-forward="true" selection-start-line="50" selection-start-column="3" selection-end-line="57" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/Ex106.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
         </state>
       </provider>
     </entry>
